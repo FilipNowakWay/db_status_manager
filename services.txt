@@ -1,0 +1,8 @@
+mysqld
+nginx
+apache2
+postgresql-15
+sshd
+redis-server
+
+
